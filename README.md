@@ -3,4 +3,4 @@
 
 Hello there,
 
-I'm Ege, an electrical and electronic engineering student in Akdeniz University.
+I'm Ege, an electrical and electronics engineering student in Akdeniz University.
